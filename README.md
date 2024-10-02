@@ -34,3 +34,5 @@ And navigate to the example notebook, titled "nacl_high_pressure.ipynb".
 My favorite earth science topics are high pressure mineral physics and geodynamic modeling, but I am mostly interested in studying water rich exoplanets! 
 
 
+## License
+This open source code is distributed under an MIT license, which allows its usage, modification, and distribution subject to basic preservation of copyright and license notices.
