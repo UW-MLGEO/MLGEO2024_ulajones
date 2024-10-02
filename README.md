@@ -23,9 +23,14 @@ conda activate env_name_here
 
 ## How to Run
 
+Open jupyter notebook or jupyter lab:
+```bash
+jupyter notebook
+```
+And navigate to the example notebook, titled "nacl_high_pressure.ipynb".
 
 
-
-
+## HW 1
+My favorite earth science topics are high pressure mineral physics and geodynamic modeling, but I am mostly interested in studying water rich exoplanets! 
 
 
